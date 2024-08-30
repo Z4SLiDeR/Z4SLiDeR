@@ -16,8 +16,9 @@ I'm a passionate software developer with a love for exploring new technologies a
 </div>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4SLiDeR&theme=tokyonight&layout=compact)
-</div>
+## 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4SLiDeR&theme=tokyonight&layout=compact)
 
 ## 📫 How to Reach Me
 - [Email](mailto:contact@jldigital.be) - Drop me an email if you want to collaborate.
