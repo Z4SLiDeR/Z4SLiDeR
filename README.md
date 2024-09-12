@@ -23,15 +23,11 @@ I'm a passionate software developer who loves exploring new technologies and sol
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visual-studio" alt="Visual Studio">
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z4SLiDeR&theme=nightowl&hide_border=true" width="50%" />
-  <br>
-</p>
+## 📊 GitHub Stats & 🔝 Most Used Languages
 
-## 🔝 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4SLiDeR&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z4SLiDeR&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4SLiDeR&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" width="41%"/>
 </p>
 
 ## 💬 Fun Facts
