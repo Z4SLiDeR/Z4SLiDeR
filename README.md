@@ -29,6 +29,17 @@ I'm a passionate software developer who loves exploring new technologies and sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4SLiDeR&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" width="41%"/>
 </p>
 
+## ⏱️ My Coding Stats (powered by WakaTime)
+
+<!--START_SECTION:waka-->
+<!--WakaTime stats will be inserted here by the GitHub Action.-->
+<!--END_SECTION:waka-->
+
+---
+
+🕒 These stats are updated **daily** from my [WakaTime profile](https://wakatime.com/) using [waka-readme](https://github.com/athul/waka-readme).  
+
+
 ## 💬 Fun Facts
 - ☕ Coffee fuels my coding sessions.
 
