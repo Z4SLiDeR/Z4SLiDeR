@@ -32,7 +32,15 @@ I'm a passionate software developer who loves exploring new technologies and sol
 ## ⏱️ My Coding Stats (powered by WakaTime)
 
 <!--START_SECTION:waka-->
-<!--WakaTime stats will be inserted here by the GitHub Action.-->
+
+```txt
+CSHTML       9 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.66 %
+C#           5 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+CSS          3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+JavaScript   1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Csproj       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
