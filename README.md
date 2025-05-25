@@ -34,11 +34,11 @@ I'm a passionate software developer who loves exploring new technologies and sol
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        19 hrs 38 mins  █████████████████████▒░░░   85.44 %
-JavaScript                1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-CSHTML                    1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-GitIgnore file            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON                      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+C#                        9 hrs 49 mins   ███████████████████░░░░░░   75.98 %
+JavaScript                1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+CSHTML                    1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+GitIgnore file            35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON                      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
