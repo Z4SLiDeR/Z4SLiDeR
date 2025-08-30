@@ -34,7 +34,9 @@ I'm a passionate software developer who loves exploring new technologies and sol
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#           17 mins         ██████████████░░░░░░░░░░░   56.17 %
+JavaScript   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+CSHTML       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
 ```
 
 <!--END_SECTION:waka-->
