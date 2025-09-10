@@ -34,7 +34,7 @@ I'm a passionate software developer who loves exploring new technologies and sol
 <!--START_SECTION:waka-->
 
 ```txt
-C#   13 mins         █████████████████████████   100.00 %
+C#   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
